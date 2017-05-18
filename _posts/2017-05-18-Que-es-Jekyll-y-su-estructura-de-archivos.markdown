@@ -4,7 +4,7 @@ title:  "Qué es Jekyll y su estructura de archivos"
 date:   2017-05-18 
 categories: podcast
 tags: [Jekyll]
-permalink: /0/
+permalink: /1/
 image: /images/Logo.jpg
 podcast_link: https://archive.org/download/01QueEsJekyll/01-Que%20es%20Jekyll.mp3
 ---
