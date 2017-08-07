@@ -4,7 +4,7 @@ title: Creando nuestro blog con Jekyll en local
 date: 2017-08-07
 categories: podcast
 tags: [Jekyll, Local]
-permalink: /2 /
+permalink: /2/
 image: images/Logo2.jpg
 podcast_link: https://archive.org/download/02CreandoNuestroBlogConJekyllEnLocal/02-Creando%20nuestro%20blog%20con%20Jekyll%20en%20local.mp3
 comment: true
