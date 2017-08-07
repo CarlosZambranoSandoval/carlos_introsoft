@@ -4,12 +4,25 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+**Experimenta con Jekyll** es un podcast en el que explico paso a paso cómo desarrollar una web utilizando el generador estático Jekyll.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Si estás interesado en hacer tu propia web y quieres experimentar con algo sencillo, este es tu podcast.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+
+
+Autor: **Laura**  
+[Feed](http://feeds.feedburner.com/Experimentaconjekyll)
+
+
+**Puedes escuchar este podcast en:**  
+[Ivoox](http://gb.ivoox.com/en/experimenta-jekyll_fg_f1420014_filtro_1.xml)  
+[Itunes](https://itunes.apple.com/es/podcast/experimenta-con-jekyll/id1234086951?l=en)  
+
+**Contacto:**  
+Twitter: [@lormez16](https://twitter.com/lormez16)  
+Telegram: @lormez16  
+Correo: experimentaconjekyll@gmail.com  
+
+Credito de Sintonia:
+**"Spring Whistle Ukulele Summer" de GIUSEPPE LORENZONI ** (https://www.jamendo.com)
+License Creative Commons
