@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Creando nuestro blog con Jekyll en local 
+title: "#02-Creando nuestro blog con Jekyll en local" 
 date: 2017-08-07
 categories: podcast
 tags: [Jekyll, Local]
