@@ -24,7 +24,7 @@ Es un editor multiplataforma y se puede descargar desde su [web](http://pad.haro
 
 <br>
 
-![Haroopad](images/Haroopad1.png)
+![Haroopad](https://archive.org/download/Haroopad1/Haroopad1.png)
 
 <br>
 <br>
@@ -37,7 +37,7 @@ Es un editor bastante completo y me gusta porque además puedo utilizar Zen Codi
 
 <br>
 
-![Bluefish](images/Bluefish.png)
+![Bluefish](https://ia801507.us.archive.org/10/items/Haroopad1/Bluefish.png)
 
 <br>
 
