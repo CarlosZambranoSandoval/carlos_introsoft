@@ -30,25 +30,28 @@ Para ver como darse de alta y crear el repositorio en **GitHub** leer el siguien
 
 Desde la carpeta en local abrimos una terminal.
 
-1. Iniciar git:
+- Paso 1 - Iniciar git:
 
 `$ git init`
+<br>
 
-2. Rastrear todos los archivos:
+- Paso 2 - Rastrear todos los archivos:
 
 `$ git add .`
+<br>
 
 
-3. Guardar lo que ha encontrado con el primer commit:
+- Paso 3 - Guardar lo que ha encontrado con el primer commit:
 
 `$ git commit -m "primer commit"`
+<br>
 
-
-4. Conectar carpeta local con repositorio: 
+- Paso 4 - Conectar carpeta local con repositorio: 
 
 `$ git remote add origin https://github.com/lormez16/prueba.git`
+<br>
 
-5. Subir los archivos: 
+- Paso 5 -Subir los archivos: 
 
 `$ git push`
 
