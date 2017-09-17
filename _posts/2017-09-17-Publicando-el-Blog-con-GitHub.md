@@ -26,7 +26,7 @@ En el episodio anterior analizamos los archivos de nuestro proyecto e hicimos un
 
 Veamos entonces que comandos hay que ejecutar el la terminal una vez que ya tenemos nuestro usuario y repositorio en GitHub. 
 
-Para ver como darse de alta y crear el repositorio en **GitHub** leer el siguiente [Post](https://lormez16.github.io/experimenta-con-jekyll/repositorio-en-github). 
+Para ver como darse de alta y crear el repositorio en **GitHub** leer el siguiente [Post](https://lormez16.github.io/experimenta-con-jekyll/repositorio en github/). 
 
 Desde la carpeta en local abrimos una terminal.
 
