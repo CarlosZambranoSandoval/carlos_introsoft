@@ -3,10 +3,11 @@ layout: post
 title: "Editores: Haroopad y Bluefish"
 date: 2017-09-03
 tags: Editores
+permalink: /editores de markdown/
 ---
 
 
-En el episodio del podcast de esta semana hemos analizado los archivos del proyecto creado. Para ello hemos tenido que abrir esos archivos y aunque con un simple editor de texto plano es suficiente, mejor es utilizar editores específicos.  
+En el [episodio](https://lormez16.github.io/experimenta-con-jekyll/3/) del podcast de esta semana hemos analizado los archivos del proyecto creado. Para ello hemos tenido que abrir esos archivos y aunque con un simple editor de texto plano es suficiente, mejor es utilizar editores específicos.  
 
 Comenté que haría un post de los editores que uso y aquí está. 
 
