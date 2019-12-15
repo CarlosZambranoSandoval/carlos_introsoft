@@ -15,5 +15,5 @@ podcast_link: https://archive.org/download/00ExperimentaConJekyll/00-Experimenta
 </audio>
 
 
-Bienvenido al episodio de presentación de este podcast, **Experimenta con Jekyll**. Hoy comienzo este nuevo proyecto que tratará principalmente sobre Jekyll, un generador de blog estáticos con el que podemos hacer nuestro blog. 
+El éxito
 
