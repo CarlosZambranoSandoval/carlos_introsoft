@@ -27,7 +27,7 @@ github_username:  lormez16
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: cayman
 gems:
   - jekyll-feed
 exclude:
